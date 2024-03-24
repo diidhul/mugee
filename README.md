@@ -1,4 +1,7 @@
-# What is mugee.id ?
+# mugee.id
+<img src="https://github.com/diidhul/mugee/blob/main/app/src/main/res/drawable/ic_launcher.png" width="100" style="max-width: 100%;">
+
+## What is mugee.id ?
 Mugee.id is an online retail business (e-grocery) that sells various daily household consumption needs. Located in Banda Aceh, Mugee.id is ready to provide you with a shopping experience for vegetables, kitchen spices, and fruits for daily household consumption. “Mugee.id, easy vegetable shopping in Aceh.” 🛒🌿🍎
 
 ## Features
