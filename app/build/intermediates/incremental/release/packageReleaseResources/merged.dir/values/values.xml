@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#3fbc96</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteTransparent">#1C00ff00</color>
+    <string name="app_name">Mugee</string>
+    <style name="Base.Theme.Mugee" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        
+        
+        
+        <item name="android:statusBarColor">@color/material_dynamic_neutral_variant0</item>
+
+    </style>
+    <style name="Theme.Mugee" parent="Base.Theme.Mugee"/>
+</resources>

@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color green
+color white
+color whiteTransparent
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id webview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Mugee
+style Theme.Mugee
+xml backup_rules
+xml data_extraction_rules
